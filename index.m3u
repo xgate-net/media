@@ -22,3 +22,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b3840
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religious",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religious",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
